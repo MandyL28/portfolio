@@ -1842,7 +1842,7 @@ input, select, textarea {
 	}
 
 	.box.excerpt .date {
-		background: #e70d0d;
+		background: #878787;
 		color: #fff;
 		font-weight: 400;
 		text-transform: uppercase;
@@ -2082,7 +2082,8 @@ input, select, textarea {
 	#features {
 		position: relative;
 		overflow: hidden;
-		background: #3D4849;
+		background-image: url("paper.gif");
+		background-color: #fff4dc;
 		text-align: center;
 		padding: 6em 0;
 	}
